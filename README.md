@@ -12,7 +12,10 @@
 ---
 
 ## **📝 포트폴리오 개요**
-https://github.com/dellogo/SETINO/assets/93125060/b8cd15c5-d78e-4fb2-92b1-3c44e3209a05
+
+https://github.com/dellogo/SETINO/assets/93125060/1a7fa1ad-564f-4d5f-bc49-3d26f128efe1
+
+
 
   > 프로젝트: SETINO
   >
