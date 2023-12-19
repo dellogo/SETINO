@@ -5,7 +5,6 @@
 <b>
   
 - 📝 [개요](#-포트폴리오-개요)
-- 🔗 [홈페이지 링크](#-홈페이지-링크)
 - ⚒️ [기술 및 도구](#%EF%B8%8F-기술-및-도구)
 - 📃 [작품 소개](#-작품-소개)
 </b>
@@ -17,6 +16,8 @@
 
   > 프로젝트: SETINO
   >
+  > 링크: https://dellogo.github.io/SETINO/
+  >  
   > 기획 및 제작: 홍서영
   >
   > 분류: 개인 프론트 프로젝트
@@ -27,9 +28,6 @@
   >
   > 문의: young_laon@naver.com
 
- 
-## **🔗 홈페이지 링크**
-> https://dellogo.github.io/SETINO/
 
 ## **⚒️ 기술 및 도구**
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
